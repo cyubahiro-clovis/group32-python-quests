@@ -9,11 +9,11 @@ print("=" * 10)
 print()
 
 
-password = input('Enter the correct password: ')
+password = input('Enter the password: ')
 correct_password = 'Password'
 
 if correct_password == password:
-    print("Access granted")
+    print("Access Granted")
 else:
-    print("Access denied")
+    print("Access Denied")
 

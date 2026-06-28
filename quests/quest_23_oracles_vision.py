@@ -9,3 +9,4 @@ rectangle2 = calculate_area(7, 3)
 
 print(f"The area of rectangle 1 is {rectangle1}.")
 print(f"The area of rectangle 2 is {rectangle2}.")
+# Member 3 work by Vladimir-Ndayisaba

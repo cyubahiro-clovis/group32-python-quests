@@ -9,3 +9,4 @@ for number in range(1, 101):
         print("Buzz")
     else:
         print(number)
+# Member 3 work by Vladimir-Ndayisaba
